@@ -14,6 +14,18 @@ func main() {
 	var friendName = "Budi"
 	fmt.Println(friendName)
 
-	var age = 30
+	var age = 23
 	fmt.Println(age)
+
+	country := "indonesia"
+	fmt.Println(country)
+
+	var (
+		firstName = "Muhammad"
+		lastName  = "Zhuhry"
+	)
+	fmt.Println(firstName, lastName)
+
+	first, last := "budi", "bambang"
+	fmt.Println(first, last)
 }
