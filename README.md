@@ -3,4 +3,11 @@
 
 # belajar-golang-dasar
 
-Repository ini berisi catatan-catatan untuk belajar bahasa pemrograman golang yang paling dasar
+Repository ini berisi catatan-catatan untuk belajar bahasa pemrograman golang yang paling dasar.
+
+berikut listnya :
+
+- [x] hello world
+- [x] number
+- [x] boolean
+- [x] string
