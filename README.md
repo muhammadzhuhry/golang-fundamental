@@ -12,3 +12,4 @@ berikut listnya :
 - [x] boolean
 - [x] string
 - [x] variable
+- [x] constant
