@@ -11,3 +11,4 @@ berikut listnya :
 - [x] number
 - [x] boolean
 - [x] string
+- [x] variable
