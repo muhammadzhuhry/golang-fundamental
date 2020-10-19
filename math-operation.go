@@ -10,4 +10,9 @@ func main() {
 
 	c := a * b
 	fmt.Println(c)
+
+	// Augmented Assignment
+	var i = 10
+	i += 10
+	fmt.Println(i)
 }
