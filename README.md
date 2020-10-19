@@ -13,3 +13,4 @@ berikut listnya :
 - [x] string
 - [x] variable
 - [x] constant
+- [x] conversion
