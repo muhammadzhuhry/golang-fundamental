@@ -1,5 +1,5 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;
-![HitCount](http://hits.dwyl.com/muhammadzhuhry/belajar-golang-dasar.svg)(http://hits.dwyl.com/muhammadzhuhry/belajar-golang-dasar)&nbsp;
+![HitCount](http://hits.dwyl.com/muhammadzhuhry/belajar-golang-dasar.svg)&nbsp;
 
 # belajar-golang-dasar
 
