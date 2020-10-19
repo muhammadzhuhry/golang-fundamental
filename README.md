@@ -14,3 +14,4 @@ berikut listnya :
 - [x] variable
 - [x] constant
 - [x] conversion
+- [x] type declarations
