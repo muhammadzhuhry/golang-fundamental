@@ -11,4 +11,8 @@ func main() {
 	fmt.Println(nilai64)
 	// will print -96, it called integer overflow when it touch the boundary it will back to the minimum value
 	fmt.Println(nilai8)
+
+	var name = "Zhuhry"
+	z := name[0]
+	fmt.Println(z, string(z))
 }
