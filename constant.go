@@ -7,7 +7,8 @@ func main() {
 	const lastName = "Zhuhry"
 	const value = 1000
 
-	fmt.Println(firstName)
+	//it's okay if you not use constant variable, go will not giving error
+	//fmt.Println(firstName)
 	fmt.Println(lastName)
 	fmt.Println(value)
 }
