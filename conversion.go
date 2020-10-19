@@ -9,5 +9,6 @@ func main() {
 
 	fmt.Println(nilai32)
 	fmt.Println(nilai64)
+	// will print -96, it called integer overflow when it touch the boundary it will back to the minimum value
 	fmt.Println(nilai8)
 }
