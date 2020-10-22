@@ -19,3 +19,4 @@ berikut listnya :
 - [x] array
 - [x] slice
 - [x] map
+- [x] if expression
