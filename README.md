@@ -15,3 +15,5 @@ berikut listnya :
 - [x] constant
 - [x] conversion
 - [x] type declarations
+- [x] operations(math, comparation, and boolean)
+- [x] array
