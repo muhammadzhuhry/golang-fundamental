@@ -18,3 +18,4 @@ berikut listnya :
 - [x] operations(math, comparation, and boolean)
 - [x] array
 - [x] slice
+- [x] map
