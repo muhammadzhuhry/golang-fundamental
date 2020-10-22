@@ -19,7 +19,7 @@ func main() {
 
 	var values = [3]int{80, 90, 100}
 
-	fmt.Println((values))
+	fmt.Println(values)
 }
 
 //Function Array
