@@ -17,4 +17,4 @@ berikut listnya :
 - [x] type declarations
 - [x] operations(math, comparation, and boolean)
 - [x] array
-- [x] slicee
+- [x] slice
