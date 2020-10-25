@@ -21,3 +21,4 @@ berikut listnya :
 - [x] map
 - [x] if expression
 - [x] switch expression
+- [x] for loops
