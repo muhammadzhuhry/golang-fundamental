@@ -22,3 +22,4 @@ berikut listnya :
 - [x] if expression
 - [x] switch expression
 - [x] for loops
+- [x] break
