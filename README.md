@@ -29,3 +29,4 @@ berikut listnya :
 - [x] function return value
 - [x] function return value
 - [x] function return multiple value
+- [x] function return named value
