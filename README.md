@@ -26,3 +26,4 @@ berikut listnya :
 - [x] continue
 - [x] function
 - [x] function parameter
+- [x] function return value
