@@ -25,3 +25,4 @@ berikut listnya :
 - [x] break
 - [x] continue
 - [x] function
+- [x] function parameter
