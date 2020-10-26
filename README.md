@@ -27,3 +27,5 @@ berikut listnya :
 - [x] function
 - [x] function parameter
 - [x] function return value
+- [x] function return value
+- [x] function return multiple value
