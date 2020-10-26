@@ -23,3 +23,4 @@ berikut listnya :
 - [x] switch expression
 - [x] for loops
 - [x] break
+- [x] continue
