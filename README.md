@@ -32,3 +32,4 @@ berikut listnya :
 - [x] function return named value
 - [x] variadic function
 - [x] function as value
+- [x] function as parameter
