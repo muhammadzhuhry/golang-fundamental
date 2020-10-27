@@ -31,3 +31,4 @@ berikut listnya :
 - [x] function return multiple value
 - [x] function return named value
 - [x] variadic function
+- [x] function as value
