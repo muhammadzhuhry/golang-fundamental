@@ -34,3 +34,4 @@ berikut listnya :
 - [x] function as value
 - [x] function as parameter
 - [x] function anonymous
+- [x] function recursive
