@@ -33,3 +33,4 @@ berikut listnya :
 - [x] variadic function
 - [x] function as value
 - [x] function as parameter
+- [x] function anonymous
