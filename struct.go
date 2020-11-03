@@ -32,4 +32,12 @@ func main() {
 	budi := Customer{"Budi", "Indonesia", 25}
 
 	fmt.Println(budi)
+
+	// called struct method
+	zuhri.sayHi("Iqbal")
+}
+
+// Struct method / function
+func (customer Customer) sayHi(name string) {
+	fmt.Println("Hello", name, "My name is", customer.Name)
 }
