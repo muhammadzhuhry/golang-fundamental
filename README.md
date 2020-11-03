@@ -39,3 +39,4 @@ berikut listnya :
 - [x] defer
 - [x] panic
 - [x] recover
+- [x] struct
