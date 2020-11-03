@@ -39,4 +39,4 @@ berikut listnya :
 - [x] defer
 - [x] panic
 - [x] recover
-- [x] struct
+- [x] struct & struct function / method
