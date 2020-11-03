@@ -36,3 +36,4 @@ berikut listnya :
 - [x] function anonymous
 - [x] function recursive
 - [x] closures
+- [x] defer
