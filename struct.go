@@ -20,4 +20,16 @@ func main() {
 	zuhri.Age = 23
 
 	fmt.Println(zuhri)
+
+	joko := Customer{
+		Name:    "Joko",
+		Address: "Indonesia",
+		Age:     30,
+	}
+
+	fmt.Println(joko)
+
+	budi := Customer{"Budi", "Indonesia", 25}
+
+	fmt.Println(budi)
 }
