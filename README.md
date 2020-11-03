@@ -38,3 +38,4 @@ berikut listnya :
 - [x] closures
 - [x] defer
 - [x] panic
+- [x] recover
