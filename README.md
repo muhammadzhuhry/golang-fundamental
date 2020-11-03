@@ -37,3 +37,4 @@ berikut listnya :
 - [x] function recursive
 - [x] closures
 - [x] defer
+- [x] panic
