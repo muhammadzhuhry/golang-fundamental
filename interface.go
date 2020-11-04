@@ -15,8 +15,6 @@ func SayHello(hasName HasName) {
 }
 
 func main() {
-	//zuhri := Person{Name: ""}
-	//zuhri.Name = "ekoo"
 
 	zuhri := Person{
 		Name: "Muhammad Athallah Zhuhry",
