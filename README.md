@@ -40,3 +40,4 @@ berikut listnya :
 - [x] panic
 - [x] recover
 - [x] struct & struct function / method
+- [x] interface
