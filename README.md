@@ -41,4 +41,4 @@ berikut listnya :
 - [x] recover
 - [x] struct & struct function / method
 - [x] interface
-- [x] empty interface
+- [x] interface kosong
