@@ -43,3 +43,4 @@ berikut listnya :
 - [x] interface
 - [x] interface kosong
 - [x] nil
+- [x] interface error
