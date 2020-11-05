@@ -42,3 +42,4 @@ berikut listnya :
 - [x] struct & struct function / method
 - [x] interface
 - [x] interface kosong
+- [x] nil
