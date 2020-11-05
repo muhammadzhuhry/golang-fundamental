@@ -5,6 +5,8 @@ import (
 	"reflect"
 )
 
+// in javascript it caled rest parameter if in function or spread operator in variable
+
 //Parameter yg berada di posisi terkahir pada sebuah function, memiliki kemampuan dijadikan sebuah varArgs(variable argumen)
 //Variadic function adalah function yg memiliki paramater varArgs
 //parameter varArgs merupakah parameter yg bisa menirima lebih dari satu input, atau bisa di bilang seperti array / slice
