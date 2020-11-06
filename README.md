@@ -46,3 +46,4 @@ berikut listnya :
 - [x] interface error
 - [x] type assertions
 - [x] pointer
+- [x] pointer in function
