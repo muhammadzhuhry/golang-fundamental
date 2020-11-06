@@ -44,3 +44,4 @@ berikut listnya :
 - [x] interface kosong
 - [x] nil
 - [x] interface error
+- [x] type assertions
