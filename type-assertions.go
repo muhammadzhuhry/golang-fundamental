@@ -6,7 +6,7 @@ import "fmt"
 // Fitur ini sering digunakan ketika kita bertemu dengan data interface kosong
 
 func random() interface{} {
-	return 1
+	return "ups"
 }
 
 func main() {
