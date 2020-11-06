@@ -47,3 +47,4 @@ berikut listnya :
 - [x] type assertions
 - [x] pointer
 - [x] pointer in function
+- [x] pointer in method / struct
