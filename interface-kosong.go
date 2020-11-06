@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // Interface kosong adalah interface yang tidak memiliki deklarasi method satupun, hal ini membuat secara otomatis	semua tipe data akan menjadi implementasinya
+// Interface kosong biasa digunakan untuk menampung tipe data yg dynamic
 
 /*cara membuat interface kosong -> interface{} atau sama dengan
 type Apapun interface {
