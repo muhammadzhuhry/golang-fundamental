@@ -45,3 +45,4 @@ berikut listnya :
 - [x] nil
 - [x] interface error
 - [x] type assertions
+- [x] pointer
