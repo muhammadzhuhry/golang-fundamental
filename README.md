@@ -50,4 +50,4 @@ berikut listnya :
 - [x] pointer in method / struct
 - [x] package & import
 - [x] access modifier
-- [x] package initialization
+- [x] package initialization & blank identifier
