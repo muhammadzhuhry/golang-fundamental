@@ -48,3 +48,4 @@ berikut listnya :
 - [x] pointer
 - [x] pointer in function
 - [x] pointer in method / struct
+- [x] package & import
