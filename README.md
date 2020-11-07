@@ -53,3 +53,4 @@ berikut listnya :
 - [x] package initialization & blank identifier
 - [x] package OS
 - [x] package flag
+- [x] package strings
