@@ -52,3 +52,4 @@ berikut listnya :
 - [x] access modifier
 - [x] package initialization & blank identifier
 - [x] package OS
+- [x] package flag
