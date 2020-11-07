@@ -54,3 +54,4 @@ berikut listnya :
 - [x] package OS
 - [x] package flag
 - [x] package strings
+- [x] package strconv
