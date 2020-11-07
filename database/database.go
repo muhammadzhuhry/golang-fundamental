@@ -6,6 +6,6 @@ func init() {
 	connection = "MySQL"
 }
 
-func getDatabase() string {
+func GetDatabase() string {
 	return connection
 }
