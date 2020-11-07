@@ -49,3 +49,4 @@ berikut listnya :
 - [x] pointer in function
 - [x] pointer in method / struct
 - [x] package & import
+- [x] access modifier
