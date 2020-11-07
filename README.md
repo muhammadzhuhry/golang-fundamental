@@ -55,3 +55,4 @@ berikut listnya :
 - [x] package flag
 - [x] package strings
 - [x] package strconv
+- [x] package math
