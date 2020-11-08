@@ -61,3 +61,4 @@ berikut listnya :
 - [x] package sort
 - [x] package time
 - [x] package reflect
+- [x] package regexp
