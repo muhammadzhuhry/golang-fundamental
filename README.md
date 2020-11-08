@@ -56,3 +56,4 @@ berikut listnya :
 - [x] package strings
 - [x] package strconv
 - [x] package math
+- [x] package container/list
