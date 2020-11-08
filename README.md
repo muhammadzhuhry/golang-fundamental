@@ -60,3 +60,4 @@ berikut listnya :
 - [ ] package container/ring (need to explore about circular list)
 - [x] package sort
 - [x] package time
+- [x] package reflect
