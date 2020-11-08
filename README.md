@@ -56,4 +56,6 @@ berikut listnya :
 - [x] package strings
 - [x] package strconv
 - [x] package math
-- [x] package container/list
+- [ ] package container/list (need to explore about double linked list)
+- [ ] package container/ring (need to explore about circular list)
+- [ ] package sort
