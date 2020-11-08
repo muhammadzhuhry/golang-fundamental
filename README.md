@@ -58,4 +58,5 @@ berikut listnya :
 - [x] package math
 - [ ] package container/list (need to explore about double linked list)
 - [ ] package container/ring (need to explore about circular list)
-- [ ] package sort
+- [x] package sort
+- [x] package time
