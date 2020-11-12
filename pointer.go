@@ -8,6 +8,8 @@ import "fmt"
 // Pointer adalah kemampuan membuat reference ke lokasi data di memory yg sama, tanpa menduplikasi data yg sudah ada
 // Sederhananya, dengan kemampuan pointer, kita bisa membuat pass by reference
 
+// value dari vairable pointer itu cuma bisa alamat memory suatu variable(&) atau variable pointer yang lain
+
 type Address struct {
 	City, Province, Country string
 }
