@@ -1,5 +1,5 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;
-![HitCount](http://hits.dwyl.com/muhammadzhuhry/belajar-golang-dasar.svg)&nbsp;
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammadzhuhry%2Fgolang-fundamental)
 
 # :notebook: Golang Fundamentals
 
